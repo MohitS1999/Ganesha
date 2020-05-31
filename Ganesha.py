@@ -3,9 +3,9 @@ def pattern(n):
 
     a=n//2-1
 
-    #for upper block
-
     for i in range(n+1):
+        
+        #for upper block
 
         if i<n//2:
 
